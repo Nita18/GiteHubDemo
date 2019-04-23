@@ -21,4 +21,9 @@ public class SleniumTest {
    {
 	   System.out.println("ElementsUi");
    }
+   @Test
+   public void ElementsU12i()
+   {
+	   System.out.println("ElementsUi12");
+   }
 }
