@@ -14,7 +14,8 @@ public class SleniumTest {
 		driver.get("http:www.google.com");
 		driver.findElement(By.xpath("//input[@title='Search']")).sendKeys("Hello World");
 	   System.out.println("BrowserAutomation");
-   }
+	   System.out.println("Web Automation");
+   } 
    @Test
    public void ElementsUi()
    {
